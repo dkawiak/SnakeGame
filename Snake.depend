@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1559901656 source:c:\users\admin\documents\kurs programowania\mój w³asny kod c++\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+
+1559905614 source:c:\users\admin\desktop\snake\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+
